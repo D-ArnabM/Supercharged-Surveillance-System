@@ -1,5 +1,5 @@
 # Supercharged-Surveillance-System
-A smart security system for household made using Python.
+A smart security system for households made using Python.
 
 Today everyone faces the problem of intruders and many outsiders are entertained in the premises, which can make harm to them and can damage their property.
 
