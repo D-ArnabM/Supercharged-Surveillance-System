@@ -41,8 +41,8 @@ def detect():
                     message = client.messages \
                         .create(
                             body='ALERT : YOU HAVE AN UNKNOWN VISITOR',
-                            from_='+17174028183',
-                            to='+919380545669'
+                            from_='YOUR TWILIO NUMBER',
+                            to='PHONE NUMBER OF SMS RECIEVER'
                         )
                     #sms.send()
                     count = 0
